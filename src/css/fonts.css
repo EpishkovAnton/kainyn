@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Open Sans Light';
+    src: url('../fonts/OpenSans-Light.eot');
+    src: url('../fonts/OpenSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/OpenSans-Light.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('../fonts/Montserrat-Regular.eot');
+    src: url('../fonts/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Montserrat-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: '汉呈刀锋楷书';
+    src: url('../fonts/汉呈刀锋楷书.eot');
+    src: url('../fonts/汉呈刀锋楷书.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/汉呈刀锋楷书.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Satellite';
+    src: url('../fonts/Satellite-Regular.eot');
+    src: url('../fonts/Satellite-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Satellite-Regular.woff') format('woff'),
+        url('../fonts/Satellite-Regular.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BlackDiamond';
+    src: url('../fonts/BlackDiamond.eot');
+    src: url('../fonts/BlackDiamond.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BlackDiamond.woff') format('woff'),
+        url('../fonts/BlackDiamond.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TSquaresCondensed-Thin';
+    src: url('../fonts/TSquaresCondensed-Thin.eot');
+    src: url('../fonts/TSquaresCondensed-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TSquaresCondensed-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
