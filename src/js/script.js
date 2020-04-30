@@ -8,6 +8,7 @@ $(document).ready(function () {
     dots: false,
     arrows: false,
     infinite: true,
+    fade: true,
 
   });
 });
